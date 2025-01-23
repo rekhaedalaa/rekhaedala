@@ -8,10 +8,23 @@
     <pattern>hi</pattern>
     <template>hi
 </template>
+
 </category>
 <category>
     <pattern>uses of pandorabots</pattern>
     <template>easy devlopment</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Click node to edit template</template>
 </category>
 <category>
     <pattern></pattern>
